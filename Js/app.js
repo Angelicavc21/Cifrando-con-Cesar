@@ -77,6 +77,7 @@ function dataUser (option){
     break;
   }
 }
+
 //bucle para ver que desea realizar el usuario
 do{
   var menu = 'Por favor escribir 1 si desea cifrar un texto \n Por favor escribir 2 si desea descifrar un texto \n Por favor escribir 3 si desea salir del sistema';
